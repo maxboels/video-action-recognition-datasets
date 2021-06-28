@@ -1,4 +1,3 @@
-# surgical-workflow-data-sets
 
 Description
 -----------
