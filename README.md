@@ -2,7 +2,9 @@
 
 Description
 -----------
-List of surgical tool datasets organised by task. A list of data repositories is also displayed at the bottom. Please open an issue if you see a relevant open dataset which is missing or if you find inacurate information.
+
+
+Please open an issue if you see a relevant open dataset which is missing or if you find inacurate information.
 
 Tool classification
 -------------------
@@ -44,164 +46,6 @@ Tool classification
   
 </table>
 
-Tool segmentation
------------------
-<table align="center">
-  <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
-  </tr>
-  
-  <!-- RMIT -->
-  <tr>
-    <td align="center">
-      <a href="https://sites.google.com/site/sznitr/code-and-datasets">RMIT</a>
-    </td>
-    <td align="center">
-      This dataset consists of three image sequences during retinal microsurgery. For each image sequence, the instrument position and size has been hand annotated.
-    </td>
-    <td align="center">1.5K</td>
-    <td align="center">4</td>
-    <td align="center">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-642-33418-4_70">Sznitman et a. 2012</a>
-    </td>
-  </tr>
-  
-  <!-- InstrumentCrowd -->
-  <tr>
-    <td align="center">
-      <a href="https://opencas.webarchiv.kit.edu/?q=InstrumentCrowd">InstrumentCrowd</a>
-    </td>
-    <td align="center">
-      The training data was generated from a total of 6 surgical procedures, three from laparoscopic adrenalectomies and three from laparoscopic pancreatic resections. From each surgery, 20 images containing one or several medical instruments were extracted, yielding 120 images in total.
-    </td>
-    <td align="center">120</td>
-    <td align="center">6</td>
-    <td align="center">
-      <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-10470-6_55">Maier-Hein et al. 2014</a>
-    </td>
-  </tr>
-  
-  <!-- NeuroSurgicalTools -->
-  <tr>
-    <td align="center">
-      <a href="https://medicis.univ-rennes1.fr/software#neurosurgicaltools_dataset">NeuroSurgicalTools</a>
-    </td>
-    <td align="center">
-      Consists of 2476 monocular images (1221 for training and 1255 for testing) coming from in vivo neurosurgeries. The resolution of the images varies from 612×460 to 1920×1080. 
-    </td>
-    <td align="center">2.5K</td>
-    <td align="center">14</td>
-    <td align="center">
-      <a href="https://ieeexplore.ieee.org/document/7138629">Bouget et al. 2015</a>
-    </td>
-  </tr>
-  
-  <!-- EndoVis2015 -->
-  <tr>
-    <td align="center">
-      <a href="https://opencas.webarchiv.kit.edu/?q=node/30">EndoVis2015</a>
-    </td>
-    <td align="center">
-      40 2D in-vivo images from 4 laparoscopic colorectal surgeries. Each pixel is labelled as either background, shaft and manipulator (~160 2D images and annotations in total). 4x 45-second 2D images sequences of at least one Large Needle Driver instrument in an ex-vivo setup. Each pixel is labelled as either backgroud, shaft, head or clasper. 
-    </td>
-    <td align="center">9K</td>
-    <td align="center">8</td>
-    <td align="center">
-      N/A
-    </td>
-  </tr>
-  
-  <!-- EndoVis2017 -->
-  <tr>
-    <td align="center">
-      <a href="https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org">EndoVis2017</a>
-    </td>
-    <td align="center">
-      8x 225-frame robotic surgical videos, captured at 2 Hz, with manually labelled different tool parts and types. The testing set contains 8x 75-frame videos and 2x 300-frame videos.
-    </td>
-    <td align="center">1.8K</td>
-    <td align="center">8</td>
-    <td align="center">
-      <a href="https://arxiv.org/pdf/1902.06426.pdf">Allan et al. 2019</a>
-    </td>
-  </tr>
-  
-  <!-- EndoVis2018 -->
-  <tr>
-    <td align="center">
-      <a href="https://endovissub2018-roboticscenesegmentation.grand-challenge.org">EndoVis2018</a>
-    </td>
-    <td align="center">
-      Training dataset is made up of 16 robotic nephrectomy procedures recorded using da Vinci Xi systems in porcine labs (subsampled to 2fps). Sequences with little or no motion are manually removed to leave 149 frames per procedure. Video frames are 1280x1024 and we provide the left and right eye camera image as well as the stereo camera calibration parameters. Labels are only provided for the left image. 
-    </td>
-    <td align="center">2.4K</td>
-    <td align="center">16</td>
-    <td align="center">
-      <a href="https://arxiv.org/abs/2001.11190">Allan et al. 2020</a>
-    </td>
-  </tr>
-  
-  <!-- ROBUST-MIS 2019 -->
-  <tr>
-    <td align="center">
-      <a href="https://www.synapse.org/#!Synapse:syn20575265">ROBUST-MIS2019</a>
-    </td>
-    <td align="center">
-      Procedures in rectal resection and proctocolectomy. A training case encompasses a 10 second video snippet in form of 250 endoscopic image frames and a reference annotation for the last frame. In the annotated frame a “0” indicates the absence of a medical instrument and numbers “1”, “2“, ... represent different instances of medical instruments.
-    </td>
-    <td align="center">10K</td>
-    <td align="center">30</td>
-    <td align="center">
-      <a href="https://arxiv.org/abs/2003.10299">Ross et al. 2020</a>
-    </td>
-  </tr>
-  
-  <!-- Kvasir-Instrument -->
-  <tr>
-    <td align="center">
-      <a href="https://datasets.simula.no/kvasir-instrument/">Kvasir-Instrument</a><br>
-    </td>
-    <td align="center">
-      The Kvasir-Instrument dataset consists of consists of 590 annotated frames comprising of GI procedure tools such as snares, balloons, biopsy forceps, etc. The resolution of the image in the dataset varies from 720x576 to 1280x1024. 
-    </td>
-    <td align="center">590</td>
-    <td align="center">N/A</td>
-    <td align="center">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-030-67835-7_19">Jha et al. 2020</a>
-    </td>
-  </tr>
-  
-  <!-- CholecSeg8k -->
-  <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/newslab/cholecseg8k">CholecSeg8k</a>
-    </td>
-    <td align="center">
-      This dataset contains 8080 laparoscopic cholecystectomy image frames extracted and annotated from 17 video clips in Cholec80.
-    </td>
-    <td align="center">8K</td>
-    <td align="center">17</td>
-    <td align="center">
-      <a href="https://arxiv.org/pdf/2012.12453.pdf">Hong et al. 2020</a>
-    </td>
-  </tr>
-  
-  <!-- RoboTool -->
-  <tr>
-    <td align="center">
-      <a href="https://www.synapse.org/#!Synapse:syn22427422">RoboTool</a>
-    </td>
-    <td align="center">
-      514 images extracted from the videos of 20 freely available robotic surgical procedures and annotated for binary tool-background segmentation.
-    </td>
-    <td align="center">514</td>
-    <td align="center">20</td>
-    <td align="center">
-      <a href="https://arxiv.org/abs/2102.09528">Garcia-Peraza-Herrera et al. 2021</a>
-    </td>
-  </tr>
-  
-</table>
 
 Tool-tissue action detection
 ----------------------------
@@ -325,29 +169,8 @@ Skill assessment and workflow recognition
       N/A
     </td>
   </tr>
-  
 </table>
 
-Image-to-image translation
---------------------------
-<table align="center">
-  <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
-  </tr>
-  
-  <!-- Laparoscopic Image to Image Translation -->
-  <tr>
-    <td align="center">
-      <a href="http://opencas.dkfz.de/image2image/">Laparoscopic Image to Image Translation</a>
-    </td>
-    <td align="center">
-      Synthetic images in a 3D environemnt roughly resembling laparoscopic liver surgery scenes. A group of Generative Adversarial Networks (GAN) is trained to translate these images to look like real laparoscopic images. After the training process, the translated images along with their labels can be used as training data for a certain target task.
-    </td>
-    <td align="center">
-      <a href="https://arxiv.org/abs/1907.02882">Pfeiffer et al. 2019</a>
-    </td>
-  </tr>
-</table>
 
 Repositories holding multiple datasets
 --------------------------------------
