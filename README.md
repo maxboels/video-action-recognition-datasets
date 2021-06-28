@@ -3,8 +3,6 @@ Description
 -----------
 
 
-Please open an issue if you see a relevant open dataset which is missing or if you find inacurate information.
-
 Tool classification
 -------------------
 
@@ -179,3 +177,6 @@ Repositories holding multiple datasets
 * http://hamlyn.doc.ic.ac.uk/vision
 * https://sites.google.com/site/sznitr/code-and-datasets
 * https://datasets.simula.no/index.html
+
+
+Please open an issue if you see a relevant open dataset which is missing or if you find inacurate information.
