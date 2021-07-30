@@ -88,6 +88,21 @@ Non-medical video datasets
     <td align="center">Dataset</td> <td align="center">Task</td> <td align="center">Annotations</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
   
+  <!-- Kinetics -->
+  <tr>
+    <td align="center">
+      <a href="https://computervisiononline.com/dataset/1105138631">50 Salads</a>
+    </td>
+    <td align="center">
+      A collection of large-scale, high-quality datasets of URL links of up to 650,000 video clips that cover 400/600/700 human action classes, depending on the dataset version. Each clip is human annotated with a single action class and lasts around 10 seconds.
+    </td>
+    <td align="center">action</td>
+    <td align="center">700/400</td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2010.10864">Lucas Smaira (DeepMind) 2020</a>
+    </td>
+  </tr>
+  
   <!-- 50 Salads -->
   <tr>
     <td align="center">
