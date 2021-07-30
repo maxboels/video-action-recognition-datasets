@@ -8,7 +8,7 @@ Phase, Action, and Tool classification
 <table align="center">
   
   <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
+    <td align="center">Dataset</td> <td align="center">Task</td> <td align="center">Annotations</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
   
   <!-- CholecT50 -->
