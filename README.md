@@ -272,6 +272,3 @@ Repositories holding multiple datasets
 * http://hamlyn.doc.ic.ac.uk/vision
 * https://sites.google.com/site/sznitr/code-and-datasets
 * https://datasets.simula.no/index.html
-
-
-Thank you Luis C. Garcia-Peraza-Herrera for initiating the content and repo structure.
