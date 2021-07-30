@@ -1,6 +1,8 @@
 Description
 -----------
-This repository contains video datasets that can be used for training coarse to fine-grained (phase, step and action) temporal classification tasks. 
+This repository contains video datasets that can be used for training coarse to fine-grained (phase, step and action) temporal classification tasks.
+
+Thank you Luis C. Garcia-Peraza-Herrera for initiating the content and repo structure.
 
 Surgical video datasets
 -------------------
