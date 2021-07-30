@@ -19,7 +19,7 @@ Phase, Action, and Tool classification
     <td align="center">
       Every frame is annotated with labels from the triplet: instrument, verb and target for the recognition of instrument-tissue interaction in laparoscopic cholecystectomies. This novel challenge investigates the state-of-the-art on surgical fine-grained activity recognition.
     </td>
-    <td align="center">verb, tools, target</td>
+    <td align="center">action, tools, tissue</td>
     <td align="center">50</td>
     <td align="center">
       N/A
@@ -49,8 +49,8 @@ Phase, Action, and Tool classification
     <td align="center">
       This dataset consists of 50 cataract surgery. It was annotated for two main tasks: surgical tool presence detection and surgical activity recognition. It was divided into two sets (train, test) for the surgical tool presence detection task and 3 sets (train, dev, test) for the activity recognition task.
     </td>
-    <td align="center">900K</td>
-    <td align="center">50</td>
+    <td align="center">phases, steps</td>
+    <td align="center">101</td>
     <td align="center">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X">Al Hajj et al. 2019</a>
     </td>
@@ -59,13 +59,13 @@ Phase, Action, and Tool classification
   <!-- PETRAW -->
   <tr>
     <td align="center">
-      <a href="https://ieee-dataport.org/open-access/cataracts">CATARACTS</a>
+      <a href="https://www.synapse.org/#!Synapse:syn25147789/wiki/608848">PETRAW</a>
     </td>
     <td align="center">
-      This dataset consists of 50 cataract surgery. It was annotated for two main tasks: surgical tool presence detection and surgical activity recognition. It was divided into two sets (train, test) for the surgical tool presence detection task and 3 sets (train, dev, test) for the activity recognition task.
+      
     </td>
-    <td align="center">900K</td>
-    <td align="center">50</td>
+    <td align="center">phases, steps, actions</td>
+    <td align="center">100</td>
     <td align="center">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X">Al Hajj et al. 2019</a>
     </td>
