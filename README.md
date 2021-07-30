@@ -2,7 +2,7 @@ Description
 -----------
 
 
-Phase, Action, and Tool classification
+Surgical video datasets
 -------------------
 
 <table align="center">
@@ -77,6 +77,64 @@ Private datasets
 --------------------------------------
 * ByPass40 - Strasbourg University
 * MitiSW - MITI group at the Klinikum rechts der Isar in Munich
+
+
+Non-medical video datasets
+-------------------
+
+<table align="center">
+  
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Task</td> <td align="center">Annotations</td> <td align="center">Procedures</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- 50 Salads -->
+  <tr>
+    <td align="center">
+      <a href="https://computervisiononline.com/dataset/1105138631">50 Salads</a>
+    </td>
+    <td align="center">
+      Activity recognition research has shifted focus from distinguishing full-body motion patterns to recognizing complex interactions of multiple entities.
+    </td>
+    <td align="center">action, step/td>
+    <td align="center">50</td>
+    <td align="center">
+      N/A
+    </td>
+  </tr>
+  
+  <!-- Epic-Kitchens-100 -->
+  <tr>
+    <td align="center">
+      <a href="https://epic-kitchens.github.io/2021">Epic-Kitchens-100</a>
+    </td>
+    <td align="center">
+      Largest dataset in first-person (egocentric) vision; multi-faceted, audio-visual, non-scripted recordings in native environments - i.e. the wearers' homes, capturing all daily activities in the kitchen over multiple days.
+    </td>
+    <td align="center">action, verb and noun</td>
+    <td align="center">100</td>
+    <td align="center">
+      <a href=""></a>
+    </td>
+  </tr>
+  
+  <!-- FineGym -->
+  <tr>
+    <td align="center">
+      <a href="https://sdolivia.github.io/FineGym/#download">FineGym</a>
+    </td>
+    <td align="center">
+      FineGym, a new dataset built on top of gymnasium videos. It provides temporal annotations at both action and sub-action levels with a three-level semantic hierarchy.
+    </td>
+    <td align="center">temporal action, sub-action and semantic three</td>
+    <td align="center">99</td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2004.06704">Al Hajj et al. 2019</a>
+    </td>
+  </tr>
+  
+  
+</table>
 
 Action bounding box detection
 ----------------------------
