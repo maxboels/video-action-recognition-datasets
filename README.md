@@ -73,6 +73,21 @@ Surgical video datasets
     </td>
   </tr>
   
+    <!-- MISAW -->
+  <tr>
+    <td align="center">
+      <a href="https://www.synapse.org/#!Synapse:syn21776936/wiki/601700">MISAW</a>
+    </td>
+    <td align="center">
+      The “MIcro-Surgical Anastomose Workflow recognition on training sessions” (MISAW) sub-challenge as a part of the MICCAI 2020. Multi-Granularity recognition: One model to recognize phases, steps and activities.
+    </td>
+    <td align="center">phases, steps, activities, actions</td>
+    <td align="center">N/A</td>
+    <td align="center">
+      <a href="">N/A</a>
+    </td>
+  </tr>
+  
 </table>
 
 Private datasets
