@@ -19,8 +19,8 @@ Phase, Action, and Tool classification
     <td align="center">
       Every frame is annotated with labels from the triplet: instrument, verb and target for the recognition of instrument-tissue interaction in laparoscopic cholecystectomies. This novel challenge investigates the state-of-the-art on surgical fine-grained activity recognition.
     </td>
-    <td align="center">N/A</td>
-    <td align="center">N/A</td>
+    <td align="center">tool, verb, target</td>
+    <td align="center">50</td>
     <td align="center">
       N/A
     </td>
