@@ -194,4 +194,4 @@ Repositories holding multiple datasets
 * https://datasets.simula.no/index.html
 
 
-Thank you Luis C. Garcia-Peraza-Herrera for initiating the contect and repo structure.
+Thank you Luis C. Garcia-Peraza-Herrera for initiating the content and repo structure.
