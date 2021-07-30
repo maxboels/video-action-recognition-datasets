@@ -96,7 +96,7 @@ Non-medical video datasets
     <td align="center">
       Activity recognition research has shifted focus from distinguishing full-body motion patterns to recognizing complex interactions of multiple entities.
     </td>
-    <td align="center">action, step/td>
+    <td align="center">action, step</td>
     <td align="center">50</td>
     <td align="center">
       N/A
