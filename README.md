@@ -19,7 +19,7 @@ Phase, Action, and Tool classification
     <td align="center">
       Every frame is annotated with labels from the triplet: instrument, verb and target for the recognition of instrument-tissue interaction in laparoscopic cholecystectomies. This novel challenge investigates the state-of-the-art on surgical fine-grained activity recognition.
     </td>
-    <td align="center">tool, verb, target</td>
+    <td align="center">verb, tools, target</td>
     <td align="center">50</td>
     <td align="center">
       N/A
@@ -34,7 +34,7 @@ Phase, Action, and Tool classification
     <td align="center">
       80 videos of cholecystectomy surgeries performed by 13 surgeons. The videos are captured at 25 fps. The dataset is labeled with the phase (at 25 fps) and tool presence annotations (at 1 fps). A tool is defind as present in an image if at least half of the tool tip is visible.
     </td>
-    <td align="center">86K</td>
+    <td align="center">phases, tools</td>
     <td align="center">80</td>
     <td align="center">
       <a href="https://arxiv.org/abs/1602.03012">Twinanda et al. 2016</a>
@@ -56,7 +56,7 @@ Phase, Action, and Tool classification
     </td>
   </tr>
   
-    <!-- PETRAW -->
+  <!-- PETRAW -->
   <tr>
     <td align="center">
       <a href="https://ieee-dataport.org/open-access/cataracts">CATARACTS</a>
