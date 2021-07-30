@@ -194,4 +194,4 @@ Repositories holding multiple datasets
 * https://datasets.simula.no/index.html
 
 
-Please open an issue if you see a relevant open dataset which is missing or if you find inacurate information.
+Thank you Luis C. Garcia-Peraza-Herrera for initiating the contect and repo structure.
