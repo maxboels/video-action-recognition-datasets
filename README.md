@@ -62,7 +62,7 @@ Phase, Action, and Tool classification
       <a href="https://www.synapse.org/#!Synapse:syn25147789/wiki/608848">PETRAW</a>
     </td>
     <td align="center">
-      
+      Recognize all levels of granularity of the surgical workflow (phases, steps, and action verb) with different modalities configurations.
     </td>
     <td align="center">phases, steps, actions</td>
     <td align="center">100</td>
