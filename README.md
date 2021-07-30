@@ -79,10 +79,10 @@ Surgical video datasets
       <a href="https://www.synapse.org/#!Synapse:syn21776936/wiki/601700">MISAW</a>
     </td>
     <td align="center">
-      The “MIcro-Surgical Anastomose Workflow recognition on training sessions” (MISAW) sub-challenge as a part of the MICCAI 2020. Multi-Granularity recognition: One model to recognize phases, steps and activities.
+      The “MIcro-Surgical Anastomose Workflow recognition on training sessions” (MISAW) sub-challenge as a part of the MICCAI 2020. Multi-Granularity recognition: One model to recognize phases, steps and activities. Information: stereoscopic video, kinematic data, workflow annotation at 3 levels of granularity (phases, steps, and activities).
     </td>
     <td align="center">phases, steps, activities, actions</td>
-    <td align="center">N/A</td>
+    <td align="center">27</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2103.13111">Huaulmé et al. MICCAI 2020</a>
     </td>
@@ -244,21 +244,6 @@ Skill assessment and workflow recognition
     <td align="center">30</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2005.03501">Maier-Hein et al. 2020</a>
-    </td>
-  </tr>
-  
-  <!-- MISAW -->
-  <tr>
-    <td align="center">
-      <a href="https://www.synapse.org/#!Synapse:syn21776936/wiki/601700">MISAW</a>
-    </td>
-    <td align="center">
-      The data-set contains 27 micro-anastomosis training sequences and is composed of the following information: stereoscopic video, kinematic data, workflow annotation at 3 levels of granularity (phases, steps, and activities).
-    </td>
-    <td align="center">N/A</td>
-    <td align="center">27</td>
-    <td align="center">
-      <a href="https://arxiv.org/abs/2103.13111">Huaulmé et al. 2021</a>
     </td>
   </tr>
   
