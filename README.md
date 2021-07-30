@@ -91,7 +91,7 @@ Non-medical video datasets
   <!-- Kinetics -->
   <tr>
     <td align="center">
-      <a href="https://computervisiononline.com/dataset/1105138631">50 Salads</a>
+      <a href="https://computervisiononline.com/dataset/1105138631">Kinetics</a>
     </td>
     <td align="center">
       A collection of large-scale, high-quality datasets of URL links of up to 650,000 video clips that cover 400/600/700 human action classes, depending on the dataset version. Each clip is human annotated with a single action class and lasts around 10 seconds.
