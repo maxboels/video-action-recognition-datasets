@@ -120,6 +120,21 @@ Non-medical video datasets
     </td>
   </tr>
   
+  <!-- Breakfast -->
+  <tr>
+    <td align="center">
+      <a href="https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/">Breakfast</a>
+    </td>
+    <td align="center">
+      The Breakfast Actions Dataset comprises of 10 actions related to breakfast preparation, performed by 52 different individuals in 18 different kitchens.
+    </td>
+    <td align="center">action</td>
+    <td align="center">77 hours</td>
+    <td align="center">
+      <a href="">H. Kuehne CVPR 2014</a>
+    </td>
+  </tr>
+  
   <!-- 50 Salads -->
   <tr>
     <td align="center">
