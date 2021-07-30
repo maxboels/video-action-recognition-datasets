@@ -84,7 +84,7 @@ Surgical video datasets
     <td align="center">phases, steps, activities, actions</td>
     <td align="center">N/A</td>
     <td align="center">
-      <a href="">MICCAI 2020</a>
+      <a href="https://arxiv.org/abs/2103.13111">Huaulmé et al. MICCAI 2020</a>
     </td>
   </tr>
   
