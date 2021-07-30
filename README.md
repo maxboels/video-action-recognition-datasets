@@ -52,7 +52,7 @@ Surgical video datasets
     <td align="center">phases, steps</td>
     <td align="center">101</td>
     <td align="center">
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X">Al Hajj et al. 2019</a>
+      <a href="">N/A</a>
     </td>
   </tr>
   
@@ -67,7 +67,7 @@ Surgical video datasets
     <td align="center">phases, steps, actions</td>
     <td align="center">100</td>
     <td align="center">
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X">Al Hajj et al. 2019</a>
+      <a href="">N/A</a>
     </td>
   </tr>
   
@@ -129,7 +129,7 @@ Non-medical video datasets
     <td align="center">temporal action, sub-action and semantic three</td>
     <td align="center">99</td>
     <td align="center">
-      <a href="https://arxiv.org/abs/2004.06704">Al Hajj et al. 2019</a>
+      <a href="">N/A</a>
     </td>
   </tr>
   
