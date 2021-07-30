@@ -73,7 +73,7 @@ Surgical video datasets
     </td>
   </tr>
   
-    <!-- MISAW -->
+  <!-- MISAW -->
   <tr>
     <td align="center">
       <a href="https://www.synapse.org/#!Synapse:syn21776936/wiki/601700">MISAW</a>
