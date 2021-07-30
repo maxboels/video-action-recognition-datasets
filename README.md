@@ -73,7 +73,7 @@ Phase, Action, and Tool classification
   
 </table>
 
-Other Private datasets
+Private datasets
 --------------------------------------
 * ByPass40 - Strasbourg University
 * MitiSW - MITI group at the Klinikum rechts der Isar in Munich
