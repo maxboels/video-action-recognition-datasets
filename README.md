@@ -39,7 +39,7 @@ Surgical video datasets
     <td align="center">captions</td>
     <td align="center">13k images</td>
     <td align="center">
-      N/A
+      <a href="https://arxiv.org/abs/2004.02809">Edgar Rojas-Munoz et al. 2020</a>
     </td>
   </tr>
   
