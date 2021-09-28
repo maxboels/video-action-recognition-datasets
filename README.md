@@ -28,6 +28,21 @@ Surgical video datasets
     </td>
   </tr>
   
+    <!-- DAISI -->
+  <tr>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2004.02809">DAISI</a>
+    </td>
+    <td align="center">
+      DAISI leverages on images and instructions to provide step-by-step demonstrations of how to perform procedures from various medical disciplines. The dataset was acquired from real surgical procedures and data from academic textbooks.
+    </td>
+    <td align="center">captions</td>
+    <td align="center">13k images</td>
+    <td align="center">
+      N/A
+    </td>
+  </tr>
+  
   <!-- Cholec80 -->
   <tr>
     <td align="center">
