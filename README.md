@@ -28,7 +28,22 @@ Surgical video datasets
     </td>
   </tr>
   
-    <!-- DAISI -->
+  <!-- Hei-Chole -->
+  <tr>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2109.14956">Hei-Chole</a>
+    </td>
+    <td align="center">
+      A dataset with 33 laparoscopic cholecystectomy videos from three surgical centers with a total operation time of 22 hours was created. Labels included annotation of seven surgical phases with 250 phase transitions, 5514 occurences of four surgical actions, 6980 occurences of 21 surgical instruments from seven instrument categories and 495 skill classifications in five skill dimensions. The dataset was used in the 2019 Endoscopic Vision challenge, sub-challenge for surgical workflow and skill analysis.
+    </td>
+    <td align="center">phase, action, tools, skills</td>
+    <td align="center">24 (33 test not released))</td>
+    <td align="center">
+      N/A
+    </td>
+  </tr>
+  
+  <!-- DAISI -->
   <tr>
     <td align="center">
       <a href="https://arxiv.org/abs/2004.02809">DAISI</a>
